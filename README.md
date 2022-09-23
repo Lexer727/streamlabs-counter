@@ -1,8 +1,13 @@
 # streamlabs-counter
 Offline Counter for Streamlabs.
 
-# Build
+# Download
+[Releases page](https://github.com/Lexer727/streamlabs-counter/releases/tag/v1.0.0)
+
+
+# Build yourself
 Build with: python -m PyInstaller --onefile --noconsole --icon=app.ico --add-data="app.ico;." counter.py
+
 or: python -m PyInstaller .\counter.spec
 
 # Setup Streamlabs
