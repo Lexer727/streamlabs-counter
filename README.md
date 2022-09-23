@@ -2,7 +2,7 @@
 Offline Counter for Streamlabs.
 
 # Download
-[Releases page](https://github.com/Lexer727/streamlabs-counter/releases/tag/v1.0.0)
+Download from [releases page](https://github.com/Lexer727/streamlabs-counter/releases/tag/v1.0.0)
 
 
 # Build yourself
