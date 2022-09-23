@@ -1,5 +1,3 @@
-from cgitb import text
-from cmath import exp
 import tkinter as tk
 import keyboard
 import os
